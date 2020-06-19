@@ -222,4 +222,8 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,androidstudio,android
+=======
+# End of https://www.toptal.com/developers/gitignore/api/kotlin,androidstudio,android
+>>>>>>> 295daa25d41e06ebe7613805c0d2da20bc1d6b29
