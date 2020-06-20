@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="410" />
+    <option name="x" value="585" />
     <option name="y" value="23" />
     <option name="width" value="1521" />
     <option name="height" value="1177" />
@@ -231,7 +231,7 @@
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3299539" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.3299539" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.4989858" visible="true" weight="0.37142858" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.4989858" visible="true" weight="0.32718894" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5016903" side_tool="true" weight="0.3299539" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49830967" weight="0.3299539" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.1529954" />
