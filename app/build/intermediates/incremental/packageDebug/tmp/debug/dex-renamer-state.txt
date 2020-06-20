@@ -1,4 +1,4 @@
-#Fri Jun 19 12:54:12 KST 2020
+#Sat Jun 20 12:08:01 KST 2020
 base.0=/Users/home/Desktop/RxJavaRetrofitExample/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

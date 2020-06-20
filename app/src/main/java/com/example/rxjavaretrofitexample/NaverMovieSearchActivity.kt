@@ -29,6 +29,7 @@ class NaverMovieSearchActivity : AppCompatActivity(R.layout.activity_naver_movie
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         initView()
+        initEvent()
     }
 
     private fun initView() {
@@ -91,12 +92,10 @@ class NaverMovieSearchActivity : AppCompatActivity(R.layout.activity_naver_movie
     }
 
     override fun onBackPressed() {
-        backKeyPressed()
+        behaviorSubject.onNext(System.currentTimeMillis())
     }
 
-    private fun backKeyPressed() {
-
-        behaviorSubject.onNext(System.currentTimeMillis())
+    private fun initEvent() {
 
         behaviorSubject.buffer(2, 1)
             .map { it[0] to it[1] }
